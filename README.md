@@ -16,4 +16,4 @@ outputs = model.generate(inputs, max_length=100)
 print(tokenizer.decode(outputs[0]))
 ```
 # Demo
-[![Hugging Face](https://huggingface.co/button.svg)](https://huggingface.co/spaces/Pipatpong/VCM_Demo)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?style=flat&logo=huggingface&logoColor=white&link=https://huggingface.co/)](https://huggingface.co/spaces/Pipatpong/VCM_Demo)
